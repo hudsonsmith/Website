@@ -68,5 +68,5 @@ pre {
   background-color: var(--pre-bg-color);
   color: var(--pre-color);
   font-size: 16px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
