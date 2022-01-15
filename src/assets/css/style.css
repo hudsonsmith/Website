@@ -1,0 +1,72 @@
+:root {
+  /* --background-color: #1e2127; */
+  --background-color: #ffffff;
+  --h1-color: #56b6c2;
+  --p-color: #98c379;
+  --h2-color: #e06c75;
+  --hr-color: #5c6370;
+  --pre-bg-color: #000000;
+  --pre-color: #d19a66;
+}
+
+html,
+body {
+  background-color: var(--background-color);
+  font-family: "Fira Code", "Monospace";
+  height: 100%;
+  margin: 0;
+}
+
+.dark-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-color: #1e2127;
+}
+
+.light-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+.light-content-box {
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+h1 {
+  color: var(--h1-color);
+}
+
+h2 {
+  color: var(--h2-color);
+}
+
+p {
+  color: var(--p-color);
+}
+
+hr {
+  height: 3px;
+  border: 0;
+  background-color: var(--hr-color);
+}
+
+pre {
+  background-color: var(--pre-bg-color);
+  color: var(--pre-color);
+  font-size: 16px;
+  border-radius: 10px;
+}
