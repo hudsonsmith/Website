@@ -1,0 +1,14 @@
+---
+permalink: /tags/
+layout: layouts/base.njk
+---
+<div class="content-box">
+  <h1>Tags</h1>
+  <p>Here are all the tags.</p>
+
+  {% for tag in collections.tagList %}
+    {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  {% endfor %}
+  <p>Go back <a href="/index.html">home</a>.</p>
+</div>
