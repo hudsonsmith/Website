@@ -15,20 +15,20 @@ body {
   margin: 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  html,
-  body {
-    background-color: #1e2127;
-  }
-
-  hr {
-    height: 1px;
-    border: 0;
-    background-color: #bbc2cf;
-  }
+/* @media (prefers-color-scheme: dark) { */
+html,
+body {
+  background-color: #1e2127;
 }
 
-@media (prefers-color-scheme: light) {
+hr {
+  height: 1px;
+  border: 0;
+  background-color: #bbc2cf;
+}
+/* } */
+
+/* @media (prefers-color-scheme: light) {
   html,
   body {
     background-color: #fefefe;
@@ -39,7 +39,7 @@ body {
     border: 0;
     background-color: #5c6370;
   }
-}
+} */
 
 .dark-box {
   display: flex;
@@ -168,4 +168,44 @@ time {
 
 li {
   color: #a9a1e1;
+}
+
+.custom-shape-divider-bottom-1644694946 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1644694946 svg {
+  position: relative;
+  display: block;
+  width: calc(200% + 1.3px);
+  height: 191px;
+}
+
+.custom-shape-divider-bottom-1644694946 .shape-fill {
+  fill: #1e2127;
+}
+
+.post-header {
+  /* padding-top: 15vh;
+  padding-bottom: 15vh;
+  text-align: center;
+  background-color: #ffffff;
+  min-height: 30vh; */
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60%;
+  background-color: var(--h1-color);
+}
+
+.post-header h1 {
+  color: #ffffff;
 }
