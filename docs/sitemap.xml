@@ -3,7 +3,7 @@
   
   <url>
     <loc>https://example.com/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
+    <lastmod>2022-01-15</lastmod>
   </url>
   
   <url>
@@ -44,5 +44,10 @@
   <url>
     <loc>https://example.com/about/</loc>
     <lastmod>2022-01-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/how_to_study_with_python/</loc>
+    <lastmod>2022-02-16</lastmod>
   </url>
 </urlset>
