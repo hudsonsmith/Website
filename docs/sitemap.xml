@@ -42,12 +42,22 @@
   </url>
   
   <url>
+    <loc>https://example.com/tags/jquery/</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/about/</loc>
     <lastmod>2022-01-23</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/posts/how_to_study_with_python/</loc>
+    <lastmod>2022-02-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/jquery_custom_button/</loc>
     <lastmod>2022-02-16</lastmod>
   </url>
 </urlset>
