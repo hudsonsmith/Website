@@ -6,7 +6,19 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 // const markdownIt = require("markdown-it");
 
 
+
 module.exports = function(eleventyConfig) {
+  let markdownIt = require("markdown-it");
+  let markdownItKatex = require("markdown-it-katex");
+  let options = {
+    html: true,
+    breaks: false,
+    linkify: true
+  };
+
+  let markdownLib = markdownIt(options).use(markdownItKatex);
+  eleventyConfig.setLibrary("md", markdownLib);
+  
   // Copy the assests into the docs.
   eleventyConfig.addPassthroughCopy("./src/assets");
 
@@ -77,6 +89,8 @@ module.exports = function(eleventyConfig) {
     ui: false,
     ghostMode: false
   });
+
+  
 
   return {
     // Control which files Eleventy will process

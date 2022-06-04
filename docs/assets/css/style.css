@@ -8,6 +8,17 @@
   --pre-color: #d19a66;
 }
 
+.katex {
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.katex-html {
+  font-size: 50px;
+  color: #000000;
+  
+}
+
 html,
 body {
   font-family: "Fira Code", "Monospace";

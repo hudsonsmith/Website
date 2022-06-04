@@ -47,6 +47,21 @@
   </url>
   
   <url>
+    <loc>https://example.com/tags/math/</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/productivity/</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/about/</loc>
     <lastmod>2022-01-23</lastmod>
   </url>
@@ -59,5 +74,15 @@
   <url>
     <loc>https://example.com/posts/jquery_custom_button/</loc>
     <lastmod>2022-02-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/test/</loc>
+    <lastmod>2022-04-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/stackedit/</loc>
+    <lastmod>2022-06-04</lastmod>
   </url>
 </urlset>

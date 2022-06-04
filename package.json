@@ -27,5 +27,10 @@
     "luxon": "^2.3.0"
   },
   "main": ".eleventy.js",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "katex": "^0.15.3",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-latex": "^0.2.0"
+  }
 }
