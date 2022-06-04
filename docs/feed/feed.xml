@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<title>Hudson&#39;s Site</title>
+	<subtitle>I am writing about my experiences as a developer.</subtitle>
 	
-	<link href="https://example.com/feed/feed.xml" rel="self"/>
-	<link href="https://example.com/"/>
+	<link href="https://hudsonsmith.github.io/feed/feed.xml" rel="self"/>
+	<link href="https://hudsonsmith.github.io/"/>
 	<updated>2022-06-04T00:00:00Z</updated>
-	<id>https://example.com/</id>
+	<id>https://hudsonsmith.github.io/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Hudson Smith</name>
+		<email></email>
 	</author>
 	
 	<entry>
 		<title>StackEdit Rocks!</title>
-		<link href="https://example.com/posts/stackedit/"/>
+		<link href="https://hudsonsmith.github.io/posts/stackedit/"/>
 		<updated>2022-06-04T00:00:00Z</updated>
-		<id>https://example.com/posts/stackedit/</id>
+		<id>https://hudsonsmith.github.io/posts/stackedit/</id>
 		<content type="html">&lt;h2&gt;StackEdit Rocks!&lt;/h2&gt;
 &lt;p&gt;Often times I want to write a README file or a blog post in markdown.&lt;/p&gt;
 &lt;p&gt;Problem is, as a student, I do not have access to dev tools 100% of the time.&lt;/p&gt;
@@ -34,9 +34,9 @@
 	
 	<entry>
 		<title>KaTeX Math.</title>
-		<link href="https://example.com/posts/test/"/>
+		<link href="https://hudsonsmith.github.io/posts/test/"/>
 		<updated>2022-04-20T00:00:00Z</updated>
-		<id>https://example.com/posts/test/</id>
+		<id>https://hudsonsmith.github.io/posts/test/</id>
 		<content type="html">&lt;h2&gt;Test&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;f(x) = x + 1 
 &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.75em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.10764em;&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -45,9 +45,9 @@
 	
 	<entry>
 		<title>jQuery custom color-changing button.</title>
-		<link href="https://example.com/posts/jquery_custom_button/"/>
+		<link href="https://hudsonsmith.github.io/posts/jquery_custom_button/"/>
 		<updated>2022-02-16T00:00:00Z</updated>
-		<id>https://example.com/posts/jquery_custom_button/</id>
+		<id>https://hudsonsmith.github.io/posts/jquery_custom_button/</id>
 		<content type="html">&lt;script src=&quot;https://code.jquery.com/jquery-3.6.0.js&quot; integrity=&quot;sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
 &lt;h2&gt;How to make a custom color-changing button with jQuery.&lt;/h2&gt;
 &lt;p&gt;Here is the result of what we will make:&lt;/p&gt;
@@ -115,9 +115,9 @@
 	
 	<entry>
 		<title>How to study for quizzes with python.</title>
-		<link href="https://example.com/posts/how_to_study_with_python/"/>
+		<link href="https://hudsonsmith.github.io/posts/how_to_study_with_python/"/>
 		<updated>2022-02-16T00:00:00Z</updated>
-		<id>https://example.com/posts/how_to_study_with_python/</id>
+		<id>https://hudsonsmith.github.io/posts/how_to_study_with_python/</id>
 		<content type="html">&lt;h2&gt;How to study for quizzes with python.&lt;/h2&gt;
 &lt;p&gt;Recently I have found myself in need to study for quizzes in a short, flashcard like manner.&lt;/p&gt;
 &lt;p&gt;Being a programmer, I decided to solve this problem with code.&lt;/p&gt;
@@ -129,9 +129,9 @@
 	
 	<entry>
 		<title>This is my first post.</title>
-		<link href="https://example.com/posts/firstpost/"/>
+		<link href="https://hudsonsmith.github.io/posts/firstpost/"/>
 		<updated>2022-01-15T00:00:00Z</updated>
-		<id>https://example.com/posts/firstpost/</id>
+		<id>https://hudsonsmith.github.io/posts/firstpost/</id>
 		<content type="html">&lt;h2&gt;Hello There!&lt;/h2&gt;
 &lt;p&gt;My name is Hudson Smith and I am a software developer.&lt;/p&gt;
 &lt;p&gt;I like Linux, Python and Bash.&lt;/p&gt;
