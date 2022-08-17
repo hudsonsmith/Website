@@ -1,5 +1,8 @@
 ---
-layout: index.njk
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
 ---
 # Hudson Smith
 ---

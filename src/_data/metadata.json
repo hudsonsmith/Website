@@ -1,0 +1,21 @@
+{
+  "title": "Hudson's Site",
+  "url": "https://hudsonsmith.github.io/",
+  "language": "en",
+  "description": "I am a guy who likes Linux, Bash and Python.",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a developer.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://hudsonsmith.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://hudsonsmith.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Hudson Smith",
+    "email": "",
+    "url": "https://hudsonsmith.github.io/"
+  }
+}
