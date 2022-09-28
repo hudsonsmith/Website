@@ -5,12 +5,23 @@
 	
 	<link href="https://hudsonsmith.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://hudsonsmith.github.io/"/>
-	<updated>2022-06-04T00:00:00Z</updated>
+	<updated>2022-09-28T00:00:00Z</updated>
 	<id>https://hudsonsmith.github.io/</id>
 	<author>
 		<name>Hudson Smith</name>
 		<email></email>
 	</author>
+	
+	<entry>
+		<title>Giscus comments</title>
+		<link href="https://hudsonsmith.github.io/posts/giscus/"/>
+		<updated>2022-09-28T00:00:00Z</updated>
+		<id>https://hudsonsmith.github.io/posts/giscus/</id>
+		<content type="html">&lt;h2&gt;Giscus Comments&lt;/h2&gt;
+&lt;p&gt;Giscus is a lightweight github app that allows for github discussion based comments on pages!&lt;/p&gt;
+&lt;p&gt;Check it out at &lt;a href=&quot;https://giscus.app/&quot;&gt;giscus.app&lt;/a&gt;, and post a comment down below!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>StackEdit Rocks!</title>

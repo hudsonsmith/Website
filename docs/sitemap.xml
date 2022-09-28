@@ -7,66 +7,6 @@
   </url>
   
   <url>
-    <loc>https://hudsonsmith.github.io/posts/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/page-list/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/linux/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/python/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/bash/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/jquery/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/math/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/markdown/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/productivity/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/about/</loc>
-    <lastmod>2022-01-23</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hudsonsmith.github.io/posts/how_to_study_with_python/</loc>
     <lastmod>2022-02-16</lastmod>
   </url>
@@ -84,5 +24,75 @@
   <url>
     <loc>https://hudsonsmith.github.io/posts/stackedit/</loc>
     <lastmod>2022-06-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/posts/giscus/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/about/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/posts/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/page-list/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/linux/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/python/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/bash/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/jquery/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/markdown/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/productivity/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/math/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hudsonsmith.github.io/tags/web/</loc>
+    <lastmod>2022-09-28</lastmod>
   </url>
 </urlset>
