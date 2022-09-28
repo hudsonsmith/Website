@@ -72,6 +72,11 @@
   </url>
   
   <url>
+    <loc>https://hudsonsmith.github.io/tags/web/</loc>
+    <lastmod>2022-09-28</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hudsonsmith.github.io/tags/jquery/</loc>
     <lastmod>2022-09-28</lastmod>
   </url>
@@ -88,11 +93,6 @@
   
   <url>
     <loc>https://hudsonsmith.github.io/tags/math/</loc>
-    <lastmod>2022-09-28</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hudsonsmith.github.io/tags/web/</loc>
     <lastmod>2022-09-28</lastmod>
   </url>
 </urlset>
